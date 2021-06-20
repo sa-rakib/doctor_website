@@ -1,8 +1,7 @@
 import React from 'react';
-
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light">
+        <nav className="navbar navbar-expand-lg navbar-light background">
 
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
@@ -21,13 +20,13 @@ const Navbar = () => {
                         <a className="nav-link mr-5" href="#">Dental Services</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link mr-5 " href="#">Reviews</a>
+                        <a className="nav-link mr-5 text-light" href="#">Reviews</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link mr-5 " href="#">Blogs</a>
+                        <a className="nav-link mr-5 text-light" href="#">Blogs</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link mr-5 " href="#">Contact Us</a>
+                        <a className="nav-link mr-5 text-light" href="#">Contact Us</a>
                     </li>
 
 

@@ -25,6 +25,12 @@ const TestimonialTitle = () => {
         name : 'Aliza Farari',
         from : 'California',
         img : aliza
+        },
+    {
+        quote : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic non architecto nobis, adipisci recusandae repellat accusantium consequuntur, qui nisi deserunt blanditiis mollitia, illo! ',
+        name : 'Aliza Peadar',
+        from : 'Bangladesh',
+        img : aliza
     }
 ]
 
